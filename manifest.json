@@ -1,0 +1,10 @@
+{
+  "name": "Wuttiko",
+  "short_name": "Wuttiko",
+  "description": "Trouve le meilleur prix au S\u00e9n\u00e9gal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "icons": []
+}
